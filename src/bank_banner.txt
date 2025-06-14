@@ -1,0 +1,10 @@
+====================================
+      TERMINAL BANKING SYSTEM
+====================================
+
+Select an option:
+
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
