@@ -32,15 +32,13 @@ This mini project simulates a basic banking experience in the terminal. Here's w
 
 📎 Here's a preview of what the terminal output looks like:
 
-<img src="./img/Banner.png" width="600">
+<img src="./img/check_balance.png" width="450">
 
-<img src="./img/check_balance.png" width="500">
+<img src="./img/deposit_money.png" width="450">
 
-<img src="./img/deposit_money.png" width="500">
+<img src="./img/withdraw_money.png" width="450">
 
-<img src="./img/withdraw_money.png" width="500">
-
-<img src="./img/exit.png" width="500">
+<img src="./img/exit.png" width="450">
 
 ---
 
