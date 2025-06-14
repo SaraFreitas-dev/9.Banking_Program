@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./img/Banner.png" alt="C Programming Mini Projects Series" width="100%">
+</p>
+
+
 # 🏦 Project 9 – Terminal Banking System (in C)
 
 Welcome to **Project 9** in this beginner-friendly C programming mini-series! This project is a simple terminal-based **banking system** where the user can check their balance, deposit, or withdraw money using an interactive menu.
